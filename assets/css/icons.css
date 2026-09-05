@@ -1,0 +1,7 @@
+
+.bi{font-style:normal;display:inline-block;line-height:1;vertical-align:-.12em;font-family:Arial,Helvetica,sans-serif;font-weight:700}
+.bi-list::before{content:"☰"}.bi-x-lg::before{content:"×"}.bi-chevron-left::before{content:"‹"}.bi-chevron-right::before{content:"›"}
+.bi-whatsapp::before{content:"◉"}.bi-person-check::before{content:"✓"}.bi-flower1::before{content:"✿"}.bi-lock::before{content:"▣"}
+.bi-check-circle-fill::before{content:"●"}.bi-check2::before{content:"✓"}.bi-person-heart::before{content:"♥"}.bi-shield-check::before{content:"✓"}
+.bi-gem::before{content:"◆"}.bi-emoji-smile::before{content:"☺"}.bi-geo-alt::before{content:"⌖"}.bi-google::before{content:"G"}
+.bi-facebook::before{content:"f"}.bi-instagram::before{content:"◎"}
